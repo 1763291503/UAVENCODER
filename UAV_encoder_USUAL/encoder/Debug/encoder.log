@@ -1,0 +1,17 @@
+﻿  DCT.c
+  deblock.c
+  entroy.c
+C:\Users\lzb\Desktop\UAV_encoder_USUAL\encoder\entroy.c(372,36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  inter.c
+C:\Users\lzb\Desktop\UAV_encoder_USUAL\encoder\inter.c(71,41): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_USUAL\encoder\inter.c(27,16): warning C4101: “yy”: 未引用的局部变量
+C:\Users\lzb\Desktop\UAV_encoder_USUAL\encoder\inter.c(27,12): warning C4101: “xx”: 未引用的局部变量
+  intra.c
+C:\Users\lzb\Desktop\UAV_encoder_USUAL\encoder\intra.c(118,38): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  intra_44_model.c
+  main.c
+C:\Users\lzb\Desktop\UAV_encoder_USUAL\encoder\main.c(194,16): warning C4244: “=”: 从“TIME_T”转换到“int”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_USUAL\encoder\main.c(242,16): warning C4244: “=”: 从“TIME_T”转换到“int”，可能丢失数据
+  quant.c
+  正在生成代码...
+  encoder.vcxproj -> C:\Users\lzb\Desktop\UAV_encoder_USUAL\Debug\encoder.exe

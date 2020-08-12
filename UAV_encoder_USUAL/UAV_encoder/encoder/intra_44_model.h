@@ -1,0 +1,10 @@
+int SATD4x4(int *residual_matrix);
+void intra_4x4_model0(int* matrix_frame, int* ref_matrix, int* residual_matrix, int* predict_pixl, int x, int y);
+void intra_4x4_model1(int* matrix_frame, int* ref_matrix, int* residual_matrix, int* predict_pixl, int x, int y);
+void intra_4x4_model2(int* matrix_frame, int* ref_matrix, int* residual_matrix, int* predict_pixl, int x, int y);
+void intra_4x4_model3(int* matrix_frame, int* ref_matrix, int* residual_matrix, int* predict_pixl, int x, int y);
+void intra_4x4_model4(int* matrix_frame, int* ref_matrix, int* residual_matrix, int* predict_pixl, int x, int y);
+void intra_4x4_model5(int* matrix_frame, int* ref_matrix, int* residual_matrix, int* predict_pixl, int x, int y);
+void intra_4x4_model6(int* matrix_frame, int* ref_matrix, int* residual_matrix, int* predict_pixl, int x, int y);
+void intra_4x4_model7(int* matrix_frame, int* ref_matrix, int* residual_matrix, int* predict_pixl, int x, int y);
+void intra_4x4_model8(int* matrix_frame, int* ref_matrix, int* residual_matrix, int* predict_pixl, int x, int y);

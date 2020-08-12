@@ -1,0 +1,30 @@
+﻿  DCT.c
+  deblock.c
+  entroy.c
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\entroy.c(372,36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  inter.c
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\inter.c(65,41): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  intra.c
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\intra.c(118,38): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  intra_44_model.c
+  main.c
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(189,16): warning C4244: “=”: 从“TIME_T”转换到“int”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(244,16): warning C4244: “=”: 从“TIME_T”转换到“int”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(296,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(297,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(298,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(300,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(301,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(302,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(336,60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(337,60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(338,60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(340,60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(341,60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(342,60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(404,63): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(415,15): warning C4244: “=”: 从“TIME_T”转换到“int”，可能丢失数据
+C:\Users\lzb\Desktop\UAV_encoder_AFFINE\encoder\main.c(417,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  quant.c
+  正在生成代码...
+  encoder.vcxproj -> C:\Users\lzb\Desktop\UAV_encoder_AFFINE\Debug\encoder.exe

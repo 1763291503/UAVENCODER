@@ -1,0 +1,1 @@
+int  matrix_inv(double* a_matrix, int ndimen);
